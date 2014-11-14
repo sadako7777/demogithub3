@@ -18,7 +18,7 @@ public class cSquareRoot_T136868 extends JFrame {
 	private static JLabel lblSaiSo = new JLabel("Chon sai so :");
 	private static JTextArea txtAreaResult = new JTextArea();
 	private static JButton btntinh = new JButton("Tinh"), btnxoa = new JButton(
-			"Xoa"), btnxoahet = new JButton("Xoa het");
+			"Xoa"), btnxoahet = new JButton("Xoa tat ca");
 	private static JTextField txtInput = new JTextField();
 	private static JScrollPane scrollResult = new JScrollPane(txtAreaResult);
 	private static String[] sListNUmber = { "1", "2", "3", "4", "5", "6", "7",
